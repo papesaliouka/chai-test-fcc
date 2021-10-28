@@ -53,7 +53,7 @@ const travellers = function (req, res) {
         };
         break;
       default:
-        data = {
+ss      data = {
           name: 'unknown'
         }
     }
